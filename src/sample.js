@@ -1,6 +1,6 @@
 /**
  * © Copyright IBM Corp. 2016, 2020 All Rights Reserved
- *   Project name: JSONata
+ *   Project name: JSONata.
  *   This project is licensed under the MIT License, see LICENSE
  */
 
